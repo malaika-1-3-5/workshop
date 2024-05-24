@@ -1,0 +1,2 @@
+# workshop
+Learning about git
